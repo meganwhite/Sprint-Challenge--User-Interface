@@ -265,3 +265,67 @@ header nav a {
     color: black;
     font-size: 80%;
 }
+
+.top-about-content {
+    border-bottom: 1px dashed black;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.top-about-content h2 {
+    margin-top: 10px;
+}
+
+.top-image {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.about-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.about-boxes img {
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.about-boxes button {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 5px 15px 5px 15px;
+    font-size: 100%;
+}
+
+.about-boxes .strategy {
+    width: 48%;
+    border-bottom: 1px dashed black;
+}
+
+.about-boxes .how-we-work {
+    width: 48%;
+    border-bottom: 1px dashed black;
+}
+
+.about-boxes .places {
+    width: 48%;
+    border-bottom: 1px dashed black;
+}
+
+.about-boxes .collaboration {
+    width: 48%;
+    border-bottom: 1px dashed black;
+}
+
+.bottom-about-content {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+}
