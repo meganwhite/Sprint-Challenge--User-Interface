@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
   
-A: Semantic HTML gives an identity to each element within our HTML. It tells us the function something serves on a webpage, and also allows us to style each element in a particular way. Some tags allow browsers to know what purpose the element serves (e.g., an <h1> tag indicates some content in the markup is a heading).
+A: Semantic HTML gives an identity to each element within our HTML. It tells us the function something serves on a webpage, and also allows us to style each element in a particular way. Some tags allow browsers to know what purpose the element serves (e.g., an "<h1>" tag indicates some content in the markup is a heading).
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
